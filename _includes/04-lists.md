@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Things that are cool
+
+* Me
+* Lists
+  * extra points for lists about me
+* Chuck Norris memes
